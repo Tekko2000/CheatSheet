@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Goldman:wght@400;700&display=swap');
+body{
+    margin:0;
+    padding:0;
+    background-color: #1239c9;
+    height: auto;
+}
+nav ul{
+    list-style: none;
+    border-bottom:2px solid #269de2;
+    padding-bottom:20px;
+    margin:0;
+}
+nav ul li{
+    display: inline;
+}
+nav ul li:nth-of-type(1){
+    position: relative;
+    top:20px;
+    left:30px;
+}
+nav ul li a{
+    text-decoration:none;
+    color:#fff;
+    font-family:'Audiowide';
+    font-size:25px;
+}
+nav ul li:nth-of-type(10){
+    padding-left:7%;
+}
+nav ul li:nth-of-type(9){
+    padding-left:7%;
+}
+nav ul li:nth-of-type(8){
+    padding-left:7%;
+}
+nav ul li:nth-of-type(7){
+    padding-left:7%;
+}
+nav ul li:nth-of-type(6){
+    padding-left:7%;
+}
+nav ul li:nth-of-type(5){
+    padding-left:7%;
+}
+nav ul li:nth-of-type(4){
+    padding-left:7%;
+}
+nav ul li:nth-of-type(3){
+    padding-left:7%;
+}
+nav ul li:nth-of-type(2){
+    padding-left:7%;
+}
+nav ul li:hover{
+    text-decoration: underline;
+}
+header{
+    text-align: center;
+    color: #fff;
+    font-family:'Goldman';
+    font-size:45px;
+    padding-top:30px;
+}
+section p{
+    text-align: center;
+    color: #fff;
+    font-family:'Audiowide';
+    font-size:25px;
+}
+.d1{
+    text-align: center;
+    padding-top:2%;
+}
+article {
+    text-align: center;
+    font-family:'Audiowide';
+    color:#fff;
+    font-size:20px;
+    padding-top:20px;
+}
+footer{
+    text-align: center;
+}
+footer p{
+    color:#fff;
+    font-family:'Audiowide';
+    font-size: 10px;
+}
+footer a{
+    color:#fff;
+    font-family:'Audiowide';
+    font-size: 15px;
+    text-decoration: none;
+}
+footer a:hover{
+    text-decoration: underline;
+}
